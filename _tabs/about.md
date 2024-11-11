@@ -1,5 +1,5 @@
 ---
-# the default layout is 'page'
+title: $whoami
 icon: fas fa-info-circle
 order: 4
 ---
